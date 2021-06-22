@@ -1,4 +1,4 @@
-=== Post Meta Data Whith REST API ===
+=== Post Meta Data With REST API ===
 Contributors: Alexander Nie
 Tags: captcha, hcaptcha, make money with captcha, recaptcha, human captcha
 Requires at least: 5.0
