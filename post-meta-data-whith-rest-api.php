@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Post Meta Data Whith REST API
  * Plugin URI:  https://github.com/NBY/Post-Meta-Data-Whith-REST-API
- * Description: Allows add meta data when posting posts using rest api.Example code please visit:https://github.com/NBY/Post-Meta-Data-Whith-REST-API
+ * Description: Allows add meta data when posting posts using rest api.Example code please visit:https://github.com/NBY/Post-Meta-Data-Whith-REST-API If this plugin helps you, please give me a star. Thank you!
  * Version:     0.0.1
  * Author:      Alexander Nie
  * Author URI:  https://nby.me
