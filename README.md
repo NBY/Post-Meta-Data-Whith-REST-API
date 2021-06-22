@@ -1,4 +1,4 @@
-# REST-API-Post-meta-data
+# post-meta-data-with-rest-api
 This plugin is used to add meta data (postmeta) when publishing posts via REST API.
 
 Python3 example:
