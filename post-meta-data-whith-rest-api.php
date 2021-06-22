@@ -9,7 +9,6 @@
  * License:     GPL2+
  */
  
- <?php
 add_action('rest_api_init', function () {
 //The ‘post’ post type in the next line can also be other custom post types; ‘metadata’ is the metadata array submitted by the front end
     register_rest_field('post', 'metadata', array(
