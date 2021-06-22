@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Post Meta Data Whith REST API
- * Plugin URI:  https://github.com/NBY/Post-Meta-Data-Whith-Wordpress-REST-API
+ * Plugin URI:  https://github.com/NBY/Post-Meta-Data-Whith-REST-API
  * Description: Allows add meta data when posting posts using rest api.
  * Version:     0.0.1
  * Author:      Alexander Nie
