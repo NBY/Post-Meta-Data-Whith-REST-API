@@ -1,6 +1,6 @@
 === Post Meta Data With REST API ===
-Contributors: Alexander Nie
-Tags: captcha, hcaptcha, make money with captcha, recaptcha, human captcha
+Contributors: alexandernie
+Tags: REST API,posts,meta,postmeta,publish
 Requires at least: 5.0
 Tested up to: 5.7
 Requires PHP: 5.6
@@ -31,3 +31,7 @@ https://github.com/NBY/Post-Meta-Data-Whith-REST-API
 
 - 0.0.1 June 22th,20221 =
 * First publish.
+
+== Upgrade Notice == 
+
+Null.
